@@ -50,3 +50,6 @@ This project helps users understand the AQI of an area by inputting pollutant va
    cd aqi-predictor
    pip install -r requirements.txt
    ```
+   ## Sample Data for Testing
+![image](https://github.com/user-attachments/assets/8c204dcc-f294-42fb-ac56-0818720037ac)
+
